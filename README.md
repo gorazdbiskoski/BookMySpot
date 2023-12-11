@@ -41,6 +41,6 @@ Registration
 
 Verification
 - 3 stepeni na verifikacija, sekoj so svoj badge
-1: Email Confirmation
-2: Phone Number – SMS code
-3: Slika od User i od licna karta – verifikuvano od Super Admin
+  - 1: Email Confirmation
+  - 2: Phone Number – SMS code
+  - 3: Slika od User i od licna karta – verifikuvano od Super Admin
