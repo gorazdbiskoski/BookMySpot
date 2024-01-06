@@ -38,6 +38,8 @@ Registration
 - Lokacija (dobro za sortiranje na venues)
 - Gender Maski/Zenski
 
+- Link do Figma frameWork: https://www.figma.com/file/wOwzHQ3PltXh4nrLqnrTGP/Framework?type=design&node-id=0%3A1&mode=design&t=AQyuGnMXm7CqBTr8-1
+
 
 Verification
 3 stepeni na verifikacija, sekoj so svoj badge
